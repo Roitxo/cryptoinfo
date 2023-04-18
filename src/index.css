@@ -2,3 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+.nav-topbar {
+    padding: 1%;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.navbar-link {
+    margin: 0 1%;
+    text-transform: capitalize;
+}
+
+.logo {
+    margin-right: 3%;
+}
